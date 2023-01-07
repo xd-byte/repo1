@@ -2,18 +2,17 @@
 
 int add(int lhs, int rhs)
 {
-	int sum = lhs+rhs;
-    return sum;
+    return  lhs*rhs;
 }
 
 int sub(int lhs, int rhs)
 {
-    return  lhs-rhs;
+    return  lhs/rhs;
 }
 
 int multiply(int lhs, int rhs)
 {
-    return  lhs*rhs;
+    return  lhs+rhs;
 }
 
 int division(int lhs, int rhs)
