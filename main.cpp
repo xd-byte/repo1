@@ -2,7 +2,8 @@
 
 int add(int lhs, int rhs)
 {
-    return  lhs+rhs;
+	int sum = lhs+rhs;
+    return sum;
 }
 
 int sub(int lhs, int rhs)
