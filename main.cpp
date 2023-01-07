@@ -17,7 +17,7 @@ int multiply(int lhs, int rhs)
 
 int main(int* argc, char** argv)
 {
-
+	print("...");
     return  0;
 }
 
