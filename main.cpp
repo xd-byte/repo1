@@ -23,6 +23,8 @@ int division(int lhs, int rhs)
 int main(int* argc, char** argv)
 {
 	print("...");
+	print("...");
+	print("...");
     return  0;
 }
 
